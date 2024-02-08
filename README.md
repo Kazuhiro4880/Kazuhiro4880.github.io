@@ -4,14 +4,7 @@ GEOG0051 Mining Social and Geographic Datasets
 Formative Assessment (JSBD8)
 -------------------------------
 
-<<<<<<< Updated upstream
-Note: Notebook might contain scripts and instructions adapted from GEOG0115, GEOG0051. 
-Contributors: Stephen Law, Mateo Neira, Nikki Tanu, Thomas Keel, Gong Jie, Jason Tang and Demin Hu.
-
-
-=======
 Street Network Analysis to choose cycle lane locations
->>>>>>> Stashed changes
 ===============
 > ### Target Area: Kensington
 
@@ -42,7 +35,7 @@ ox.plot_graph(G, node_size = 2, node_color = 'w', node_alpha = 0.5)
 
 
     
-![png](GEOG0051_Formative%20Asswssment%20%28For%20submission%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC%20-%20%E3%82%B3%E3%83%94%E3%83%BC_files/GEOG0051_Formative%20Asswssment%20%28For%20submission%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC%20-%20%E3%82%B3%E3%83%94%E3%83%BC_6_0.png)
+![png](GEOG0051_Formative%20Asswssment%20%28For%20submission%29_files/GEOG0051_Formative%20Asswssment%20%28For%20submission%29_6_0.png)
     
 
 
@@ -79,7 +72,7 @@ plt.show()
 
 
     
-![png](GEOG0051_Formative%20Asswssment%20%28For%20submission%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC%20-%20%E3%82%B3%E3%83%94%E3%83%BC_files/GEOG0051_Formative%20Asswssment%20%28For%20submission%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC%20-%20%E3%82%B3%E3%83%94%E3%83%BC_9_0.png)
+![png](GEOG0051_Formative%20Asswssment%20%28For%20submission%29_files/GEOG0051_Formative%20Asswssment%20%28For%20submission%29_9_0.png)
     
 
 
@@ -3489,7 +3482,7 @@ plt.show()
 
 
     
-![png](GEOG0051_Formative%20Asswssment%20%28For%20submission%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC%20-%20%E3%82%B3%E3%83%94%E3%83%BC_files/GEOG0051_Formative%20Asswssment%20%28For%20submission%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC%20-%20%E3%82%B3%E3%83%94%E3%83%BC_24_0.png)
+![png](GEOG0051_Formative%20Asswssment%20%28For%20submission%29_files/GEOG0051_Formative%20Asswssment%20%28For%20submission%29_24_0.png)
     
 
 
