@@ -7,7 +7,7 @@ GEOG0051 Computer Lab 4: Gravity Models
 Note: Notebook might contain scripts and instructions adapted from GEOG0115, GEOG0051. 
 Contributors: Stephen Law, Mateo Neira, Nikki Tanu, Thomas Keel, Gong Jie, Jason Tang and Demin Hu.
 
-Overview of Content in this Jupyter Notebook
+
 ===============
 > ### Lab Notebook 4: Commuting Flow Analysis and Models
 
